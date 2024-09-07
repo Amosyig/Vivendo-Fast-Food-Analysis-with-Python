@@ -2,8 +2,7 @@
 
 
 
-![](atliq_hardware_image.jpg)
-
+![22892980_6683857](https://github.com/user-attachments/assets/ea0354a2-5072-40ac-9674-847591f412f0)
 
 
 ## Introduction
@@ -29,6 +28,7 @@ This report answers the following business questions:
 
 
 
+
 ## Visualization:
 
 
@@ -44,6 +44,7 @@ Recife has the highest total food claims, with 885, among all four locations. Th
 Efforts to improve response and resolution times for food claims should prioritize the Recife location. Addressing the issues there is likely to reduce the frequency of outlier 'time_to_claim' values, leading to a significant overall improvement in the time it takes to address food claims across all four locations.
 
 This is a link to a medium post for more details: 
-![Lorem Ipsum]()
+
+https://www.datascienceportfol.io/yole_amos/projects/3
 
 Thanks!
