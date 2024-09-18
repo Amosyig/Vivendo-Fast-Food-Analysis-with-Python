@@ -54,9 +54,10 @@ The key difference is the proportion of outliers—Recife, which accounts for 45
 
 ## Conclusion and Recommendations:
 
-Efforts to improve response and resolution times for food claims should prioritize the Recife location. Addressing the issues there is likely to reduce the frequency of outlier 'time_to_claim' values, leading to a significant overall improvement in the time it takes to address food claims across all four locations.
+Efforts to improve response and resolution times for food claims should prioritize the Recife location.
+Addressing the issues there is likely to reduce the frequency of outlier 'time_to_claim' values, leading to a significant overall improvement in the time it takes to address food claims across all four locations.
 
-This is a link to a medium post for more details: 
+This is a link to a portfolio page for more details on the analysis process:
 
 https://www.datascienceportfol.io/yole_amos/projects/3
 
